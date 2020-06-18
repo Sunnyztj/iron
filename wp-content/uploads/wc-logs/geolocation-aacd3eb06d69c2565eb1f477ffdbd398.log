@@ -1,0 +1,51 @@
+01-08-2018 @ 12:02:26 - Unable to download GeoIP Database: Forbidden
+01-08-2018 @ 12:02:26 - Unable to download GeoIP Database: Forbidden
+02-08-2018 @ 00:00:44 - Unable to download GeoIP Database: Forbidden
+02-08-2018 @ 00:00:44 - Unable to download GeoIP Database: Forbidden
+01-09-2019 @ 12:02:49 - Unable to download GeoIP Database: Not Found
+02-09-2019 @ 00:01:02 - Unable to download GeoIP Database: Not Found
+02-09-2019 @ 00:01:02 - Unable to download GeoIP Database: Not Found
+03-11-2019 @ 12:00:05 - Unable to download GeoIP Database: Not Found
+03-11-2019 @ 12:00:05 - Unable to download GeoIP Database: Not Found
+04-11-2019 @ 00:03:37 - Unable to download GeoIP Database: Not Found
+04-11-2019 @ 00:03:37 - Unable to download GeoIP Database: Not Found
+05-13-2019 @ 03:14:51 - Unable to download GeoIP Database: Not Found
+05-13-2019 @ 03:14:51 - Unable to download GeoIP Database: Not Found
+06-11-2019 @ 00:07:10 - Unable to download GeoIP Database: Not Found
+06-11-2019 @ 00:07:10 - Unable to download GeoIP Database: Not Found
+07-11-2019 @ 12:04:29 - Unable to download GeoIP Database: Not Found
+07-11-2019 @ 12:04:29 - Unable to download GeoIP Database: Not Found
+08-11-2019 @ 00:11:05 - Unable to download GeoIP Database: Not Found
+08-11-2019 @ 00:11:05 - Unable to download GeoIP Database: Not Found
+09-11-2019 @ 08:00:41 - Unable to download GeoIP Database: Not Found
+09-11-2019 @ 08:00:41 - Unable to download GeoIP Database: Not Found
+10-11-2019 @ 00:04:49 - Unable to download GeoIP Database: Not Found
+10-11-2019 @ 00:04:49 - Unable to download GeoIP Database: Not Found
+11-10-2019 @ 12:05:52 - Unable to download GeoIP Database: Not Found
+11-10-2019 @ 12:05:52 - Unable to download GeoIP Database: Not Found
+12-11-2019 @ 00:03:45 - Unable to download GeoIP Database: Not Found
+12-11-2019 @ 00:03:45 - Unable to download GeoIP Database: Not Found
+01-10-2020 @ 12:00:58 - Unable to download GeoIP Database: stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+stream_socket_client(): unable to connect to tcp://geolite.maxmind.com:80 (php_network_getaddresses: getaddrinfo failed: Name or service not known)
+01-10-2020 @ 12:00:58 - Unable to download GeoIP Database: stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+stream_socket_client(): unable to connect to tcp://geolite.maxmind.com:80 (php_network_getaddresses: getaddrinfo failed: Name or service not known)
+02-10-2020 @ 00:00:06 - Unable to download GeoIP Database: stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+stream_socket_client(): unable to connect to tcp://geolite.maxmind.com:80 (php_network_getaddresses: getaddrinfo failed: Name or service not known)
+02-10-2020 @ 00:00:06 - Unable to download GeoIP Database: stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+stream_socket_client(): unable to connect to tcp://geolite.maxmind.com:80 (php_network_getaddresses: getaddrinfo failed: Name or service not known)
+03-11-2020 @ 12:00:37 - Unable to download GeoIP Database: stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+stream_socket_client(): unable to connect to tcp://geolite.maxmind.com:80 (php_network_getaddresses: getaddrinfo failed: Name or service not known)
+03-11-2020 @ 12:00:37 - Unable to download GeoIP Database: stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+stream_socket_client(): unable to connect to tcp://geolite.maxmind.com:80 (php_network_getaddresses: getaddrinfo failed: Name or service not known)
+04-11-2020 @ 00:00:27 - Unable to download GeoIP Database: stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+stream_socket_client(): unable to connect to tcp://geolite.maxmind.com:80 (php_network_getaddresses: getaddrinfo failed: Name or service not known)
+04-11-2020 @ 00:00:27 - Unable to download GeoIP Database: stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+stream_socket_client(): unable to connect to tcp://geolite.maxmind.com:80 (php_network_getaddresses: getaddrinfo failed: Name or service not known)
+05-11-2020 @ 12:00:37 - Unable to download GeoIP Database: stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+stream_socket_client(): unable to connect to tcp://geolite.maxmind.com:80 (php_network_getaddresses: getaddrinfo failed: Name or service not known)
+05-11-2020 @ 12:00:37 - Unable to download GeoIP Database: stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+stream_socket_client(): unable to connect to tcp://geolite.maxmind.com:80 (php_network_getaddresses: getaddrinfo failed: Name or service not known)
+06-11-2020 @ 00:00:04 - Unable to download GeoIP Database: stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+stream_socket_client(): unable to connect to tcp://geolite.maxmind.com:80 (php_network_getaddresses: getaddrinfo failed: Name or service not known)
+06-11-2020 @ 00:00:04 - Unable to download GeoIP Database: stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+stream_socket_client(): unable to connect to tcp://geolite.maxmind.com:80 (php_network_getaddresses: getaddrinfo failed: Name or service not known)
